@@ -20,6 +20,4 @@ spec:
             - name: MONGO_INITDB_ROOT_USERNAME
               value: mongouser
             - name: MONGO_INITDB_ROOT_PASSWORD
-              value: mongopwd         
-
-        
+              value: mongopwd
